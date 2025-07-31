@@ -1,2 +1,4 @@
-# pi2ws.github.io
-PI2 Workshop
+# The First Physical Intelligence Initiative (PI2) Workshop at University of Delaware
+# November 6-7, 2025
+
+
