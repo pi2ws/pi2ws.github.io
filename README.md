@@ -12,11 +12,11 @@
 This workshop will explore how to create autonomous systems that can safely and effectively navigate the physical world. 
 We will focus on the core abilities of physical intelligence for mobility.
 
-## Agenda [tbd]
+## Agenda *[TBD]*
 
 A dynamic program designed to foster collaboration and spark innovation.
 
-* **Industry Keynotes and Panels:** Engage with leaders from top technology and robotics companies shaping the future of autonomous systems.
+* **Industry/Academic Keynotes and Panels:** Engage with leaders from top technology industry and academia shaping the future of autonomous systems.
 * **Faculty Lightning Talks and Research Posters:** Discover cutting-edge research from academia in rapid-fire presentations and interactive sessions.
 
 ## Invited Speakers
@@ -29,7 +29,7 @@ Hear from pioneers shaping the future of physical intelligence.
 
 Register now to secure your spot at the PI² Workshop and connect with leaders and innovators in the field.
 
-[**Register Now**](https://www.google.com/search?q=%23)
+[**Register Now**](https://udel.edu/~ghuang/)
 
 ### For more information:
 
