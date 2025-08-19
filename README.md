@@ -1,7 +1,10 @@
 # Physical Intelligence Initiative (PI²) Workshop
 
+
 **Quick Links:**
-[Workshop Theme](https://www.google.com/search?q=%23workshop-theme) | [Agenda](https://www.google.com/search?q=%23agenda) | [Invited Speakers](https://www.google.com/search?q=%23invited-speakers) | [Travel & Accommodations](https://www.google.com/search?q=%23travel--accommodations) | [Free Register](https://www.google.com/search?q=%23join-the-conversation)
+[Workshop Theme](#workshop-theme) | [Agenda](#agenda) | [Invited Speakers](#invited-speakers) | [Travel & Accommodations](#travel--accommodations) | [Register (free)](#join-the-conversation)
+
+---
 
 *Bridging the gap between digital computation and the physical world through robotics, and artificial intelligence.*
 
@@ -16,12 +19,11 @@
 This workshop will explore how to create autonomous systems that can safely and effectively navigate the physical world.
 We will focus on the core abilities of physical intelligence for mobility.
 
-## Agenda *[TBD]*
+## Agenda
 
 A dynamic program designed to foster collaboration and spark innovation.
 
 * **Industry/Academic Keynotes and Panels:** Engage with leaders from top technology industry and academia shaping the future of autonomous systems.
-
 * **Faculty Lightning Talks and Research Posters:** Discover cutting-edge research from academia in rapid-fire presentations and interactive sessions.
 
 ## Invited Speakers
@@ -35,20 +37,15 @@ Hear from pioneers shaping the future of physical intelligence.
 ### Getting Here
 
 **By Air:** The University of Delaware is accessible from two major international airports:
-
 * **Philadelphia International Airport (PHL):** The closest airport, approximately a 45-minute drive to campus.
-
 * **Baltimore/Washington International Thurgood Marshall Airport (BWI):** Approximately a 75-minute drive to campus.
 
 **Ground Transportation:** From either airport, you can reach Newark via:
-
 * Rental Car
-
 * Ride-sharing services (Uber, Lyft)
-
 * Amtrak and SEPTA regional rail services (the Newark, DE station is located on campus).
 
-### Where to Stay [to be updated…]
+### Where to Stay
 
 There are several hotels conveniently located near the University of Delaware campus. We recommend booking in advance.
 
