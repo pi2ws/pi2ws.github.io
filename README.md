@@ -37,7 +37,7 @@ Hear from pioneers shaping the future of physical intelligence.
 ### Getting Here
 
 **By Air:** The University of Delaware is accessible from two major international airports:
-* **Philadelphia International Airport (PHL):** The closest airport, approximately a 45-minute drive to campus.
+* **Philadelphia International Airport (PHL):** The closest airport, approximately a 40-minute drive to campus.
 * **Baltimore/Washington International Thurgood Marshall Airport (BWI):** Approximately a 75-minute drive to campus.
 
 **Ground Transportation:** From either airport, you can reach Newark via:
@@ -47,7 +47,7 @@ Hear from pioneers shaping the future of physical intelligence.
 
 ### Where to Stay
 
-There are several hotels conveniently located near the University of Delaware campus. We recommend booking in advance.
+There are several hotels conveniently located near the University of Delaware campus. We would recommend booking ahead of time.
 
 * **Courtyard by Marriott Newark at the University of Delaware**
 
