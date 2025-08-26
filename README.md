@@ -60,8 +60,8 @@ A dynamic program designed to foster collaboration and spark innovation.
 | Time             | Session                                                              |
 | ---------------- | -------------------------------------------------------------------- |
 | 8:30 – 9:00 AM   | Breakfast & Networking                                               |
-| 9:00 – 9:30 AM   | Keynote 4:           |
-| 9:30 – 10:30 AM  | Breakout Session: Industry-University Collaboration Opportunities |
+| 9:00 – 9:45 AM   | Keynote 4:           |
+| 9:45 – 10:30 AM  | Breakout Session: Industry-University Collaboration Opportunities |
 | 10:30 – 10:45 AM | Break                                                                |
 | 10:45 – 11:45 AM | Workshop: Drafting a PI2 Roadmap (Vision, Research Themes, Partners) |
 | 11:45 – 12:00 PM | Closing Remarks – Next Steps for PI2                                 |
