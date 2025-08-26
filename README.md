@@ -1,5 +1,6 @@
 # Physical Intelligence Initiative (PI²) Workshop
-
+<!-- ![](pi2header.png) -->
+<img src="pi2header.png" alt="drawing" width="725"/>
 
 **Quick Links:**
 [Workshop Theme](#workshop-theme) | [Agenda](#agenda) | [Invited Speakers](#invited-speakers) | [Travel & Accommodations](#travel--accommodations) | [Register (free)](#join-the-conversation)
