@@ -19,7 +19,7 @@ Physical AI represents a groundbreaking frontier where artificial intelligence (
 
 ## Theme
 
-**Advancing Physical Intelligence for Human-Centered Mobility through Robotics, AI, and Autonomous Systems.**
+*Advancing Physical Intelligence for Human-Centered Mobility through Robotics, AI, and Autonomous Systems.*
 
 This workshop will explore how to create autonomous systems that can safely and effectively navigate the physical world.
 We will focus on the core abilities of physical intelligence for mobility.
@@ -30,8 +30,8 @@ We will focus on the core abilities of physical intelligence for mobility.
 
 A dynamic program designed to foster collaboration and spark innovation.
 
-* **Academic Keynotes and Industry Panels:** Engage with leaders from industry and academia shaping the future of phyiscal AI.
-* **Lightning Talks and Research Posters:** Discover cutting-edge academic research in fast presentations and interactive sessions.
+* *Academic Keynotes and Industry Panels:* Engage with leaders from industry and academia shaping the future of phyiscal AI.
+* *Lightning Talks and Research Posters:* Discover cutting-edge academic research in fast presentations and interactive sessions.
 
 
 #### 📅 **Day 1: November 6 (Full Day)**
@@ -73,7 +73,7 @@ A dynamic program designed to foster collaboration and spark innovation.
 
 Hear from pioneers shaping the future of physical intelligence.
 
-*Speaker lineup to be announced soon. Stay tuned!*
+**Speaker lineup to be announced soon. Stay tuned!**
 
 | Name | Title | Affiliation |
 |:-------------|:--------------|:--------------|
@@ -113,7 +113,7 @@ Register now to secure your spot at the PI² Workshop and connect with leaders a
 
 ## Contact Us
 
-### PI2 Organizing Committee:
+**PI² Organizing Committee:**
 * [Yixiang Deng](https://yixiangd.github.io/)
 * [Guoquan Huang](https://udel.edu/~ghuang/)
 * [Weisong Shi](https://www.weisongshi.org/) 
