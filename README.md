@@ -40,16 +40,16 @@ A dynamic program designed to foster collaboration and spark innovation.
 | ---------------- | ------------------------------------------------------------------------ |
 | 8:30 – 9:00 AM   | Registration & Breakfast                                                 |
 | 9:00 – 9:15 AM   | Opening Remarks – Welcome from University Leadership                     |
-| 9:15 – 9:45 AM   | Keynote 1: *“Physical Intelligence: Redefining Human-Machine Symbiosis”* |
-| 9:45 – 10:30 AM  | Industry Panel I: *Intelligent Mobility Systems in Practice*             |
-| 10:30 – 10:45 AM | Break                                                                    |
-| 10:45 – 12:00 PM | Academic Lightning Talks: Research at the Frontier of Mobility           |
+| 9:15 – 10:00 AM   | Keynote 1:  |
+| 10:00 – 11:00 AM  | Industry Panel I:              |
+| 11:00 – 11:15 AM | Break                                                                    |
+| 11:15 – 12:00 PM | Academic Lightning Talks           |
 | 12:00 – 1:00 PM  | Networking Lunch                                                         |
-| 1:00 – 1:45 PM   | Keynote 2: *“Edge AI and Robotics for Real-Time Decision-Making”*        |
-| 1:45 – 2:45 PM   | Industry Panel II: *Physical AI in Logistics, Warehousing, and Retail*   |
+| 1:00 – 1:45 PM   | Keynote 2:        |
+| 1:45 – 2:45 PM   | Industry Panel II:    |
 | 2:45 – 3:00 PM   | Break                                                                    |
-| 3:00 – 4:00 PM   | Breakout Session I: Mobility Use-Cases and Challenges                    |
-| 4:00 – 4:45 PM   | Report-Out and Synthesis                                                 |
+| 3:00 – 3:45 PM   | Keynote 3:                  |
+| 3:45 – 4:45 PM   | Research Posters                        |
 | 4:45 – 5:00 PM   | Closing Remarks (Day 1)                                                  |
 | 5:00 – 6:30 PM   | Networking Reception                                                     |
 
@@ -60,8 +60,8 @@ A dynamic program designed to foster collaboration and spark innovation.
 | Time             | Session                                                              |
 | ---------------- | -------------------------------------------------------------------- |
 | 8:30 – 9:00 AM   | Breakfast & Networking                                               |
-| 9:00 – 9:30 AM   | Keynote 3: *“Towards Human-Centered Physical Intelligence”*          |
-| 9:30 – 10:30 AM  | Breakout Session II: Industry-University Collaboration Opportunities |
+| 9:00 – 9:30 AM   | Keynote 4:           |
+| 9:30 – 10:30 AM  | Breakout Session: Industry-University Collaboration Opportunities |
 | 10:30 – 10:45 AM | Break                                                                |
 | 10:45 – 11:45 AM | Workshop: Drafting a PI2 Roadmap (Vision, Research Themes, Partners) |
 | 11:45 – 12:00 PM | Closing Remarks – Next Steps for PI2                                 |
