@@ -2,8 +2,8 @@
 <!-- ![](pi2header.png) -->
 <img src="pi2header.png" alt="drawing" width="725"/>
 
-**Quick Links:**
-[Theme](#theme) | [Agenda](#agenda) | [Invited Speakers](#invited-speakers) | [Travel & Accommodations](#travel--accommodations) | [Register (FREE)](#join-the-conversation)
+
+[Theme](#theme) | [Agenda](#agenda) | [Invited Speakers](#invited-speakers) | [Travel & Accommodations](#travel--accommodations) | [Register (FREE)](#join-the-conversation) | [Contact Us](#contact-us)
 
 ---
 
@@ -26,20 +26,59 @@ We will focus on the core abilities of physical intelligence for mobility.
 
 ---
 
-## Agenda
+## ✅ **Agenda (Tentative)**
 
 A dynamic program designed to foster collaboration and spark innovation.
 
-* **Industry/Academic Keynotes and Panels:** Engage with leaders from top technology industry and academia shaping the future of autonomous systems.
-* **Faculty Lightning Talks and Research Posters:** Discover cutting-edge research from academia in rapid-fire presentations and interactive sessions.
+* **Academic Keynotes and Industry Panels:** Engage with leaders from industry and academia shaping the future of phyiscal AI.
+* **Lightning Talks and Research Posters:** Discover cutting-edge academic research in fast presentations and interactive sessions.
+
+
+#### 📅 **Day 1: November 6 (Full Day)**
+
+| Time             | Session                                                                  |
+| ---------------- | ------------------------------------------------------------------------ |
+| 8:30 – 9:00 AM   | Registration & Breakfast                                                 |
+| 9:00 – 9:15 AM   | Opening Remarks – Welcome from University Leadership                     |
+| 9:15 – 9:45 AM   | Keynote 1: *“Physical Intelligence: Redefining Human-Machine Symbiosis”* |
+| 9:45 – 10:30 AM  | Industry Panel I: *Intelligent Mobility Systems in Practice*             |
+| 10:30 – 10:45 AM | Break                                                                    |
+| 10:45 – 12:00 PM | Academic Lightning Talks: Research at the Frontier of Mobility           |
+| 12:00 – 1:00 PM  | Networking Lunch                                                         |
+| 1:00 – 1:45 PM   | Keynote 2: *“Edge AI and Robotics for Real-Time Decision-Making”*        |
+| 1:45 – 2:45 PM   | Industry Panel II: *Physical AI in Logistics, Warehousing, and Retail*   |
+| 2:45 – 3:00 PM   | Break                                                                    |
+| 3:00 – 4:00 PM   | Breakout Session I: Mobility Use-Cases and Challenges                    |
+| 4:00 – 4:45 PM   | Report-Out and Synthesis                                                 |
+| 4:45 – 5:00 PM   | Closing Remarks (Day 1)                                                  |
+| 5:00 – 6:30 PM   | Networking Reception                                                     |
+
+
+
+#### 📅 **Day 2: November 7 (Half Day)**
+
+| Time             | Session                                                              |
+| ---------------- | -------------------------------------------------------------------- |
+| 8:30 – 9:00 AM   | Breakfast & Networking                                               |
+| 9:00 – 9:30 AM   | Keynote 3: *“Towards Human-Centered Physical Intelligence”*          |
+| 9:30 – 10:30 AM  | Breakout Session II: Industry-University Collaboration Opportunities |
+| 10:30 – 10:45 AM | Break                                                                |
+| 10:45 – 11:45 AM | Workshop: Drafting a PI2 Roadmap (Vision, Research Themes, Partners) |
+| 11:45 – 12:00 PM | Closing Remarks – Next Steps for PI2                                 |
 
 ---
+
 
 ## Invited Speakers
 
 Hear from pioneers shaping the future of physical intelligence.
 
 *Speaker lineup to be announced soon. Stay tuned!*
+
+| Name | Title | Affiliation |
+|:-------------|:--------------|:--------------|
+| xxx | xxx | xxx |
+
 
 ---
 
@@ -74,7 +113,7 @@ Register now to secure your spot at the PI² Workshop and connect with leaders a
 
 ## Contact Us
 
-### Organizing Committee
+### PI2 Organizing Committee:
 * [Yixiang Deng](https://yixiangd.github.io/)
 * [Guoquan Huang](https://udel.edu/~ghuang/)
 * [Weisong Shi](https://www.weisongshi.org/) 
