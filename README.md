@@ -59,7 +59,7 @@ There are several hotels conveniently located near the University of Delaware ca
 
 Register now to secure your spot at the PI² Workshop and connect with leaders and innovators in the field.
 
-[**Register Now**](https://udel.edu/~ghuang/) **[FREE]**
+[**Register Now**]([https://udel.edu/~ghuang/](https://udel.ungerboeck.net/prod/emc00/register.aspx?aat=45715937454c4f424a6a47625a4e6d5667426c77726b71533333304b5759616e47395a784c4244336c51453d)) **[FREE]**
 
 ### For more information:
 
