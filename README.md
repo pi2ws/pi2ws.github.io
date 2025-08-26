@@ -113,7 +113,7 @@ Register now to secure your spot at the PI² Workshop and connect with leaders a
 
 ## Contact Us
 
-**PI² Organizing Committee:**
+**PI2 Organizing Committee:**
 * [Yixiang Deng](https://yixiangd.github.io/)
 * [Guoquan Huang](https://udel.edu/~ghuang/)
 * [Weisong Shi](https://www.weisongshi.org/) 
