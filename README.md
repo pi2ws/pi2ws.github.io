@@ -45,7 +45,7 @@ A dynamic program designed to foster collaboration and spark innovation.
 | 11:00 – 11:15 AM | Break                                                                    |
 | 11:15 – 12:00 PM | Academic Lightning Talks           |
 | 12:00 – 1:00 PM  | Networking Lunch                                                         |
-| 1:00 – 1:45 PM   | Keynote 2:        |
+| 1:00 – 1:45 PM   | Keynote 2:    Michael Karch    |
 | 1:45 – 2:45 PM   | Industry Panel II:    |
 | 2:45 – 3:00 PM   | Break                                                                    |
 | 3:00 – 3:45 PM   | Keynote 3:                  |
