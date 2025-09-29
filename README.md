@@ -46,7 +46,7 @@ A dynamic program designed to foster collaboration and spark innovation.
 | 11:15 – 12:15 PM | Academic Lightning Talks                                             |
 | 12:15 – 1:00 PM  | Networking Lunch                                                         |
 | 1:00 – 1:45 PM   | Keynote 2:    Michael Karch                                         |
-| 1:45 – 2:45 PM   | Industry Panel II: Robitics & Autonemous Driving                         |
+| 1:45 – 2:45 PM   | Industry Panel II: Robotics & Autonomous Vehicles                         |
 | 2:45 – 3:00 PM   | Break                                                                    |
 | 3:00 – 3:45 PM   | Keynote 3:       Jia Deng            |
 | 3:45 – 5:00 PM   | Research Posters                        |
