@@ -40,15 +40,15 @@ A dynamic program designed to foster collaboration and spark innovation.
 | ---------------- | ------------------------------------------------------------------------ |
 | 8:30 – 9:00 AM   | Registration & Breakfast                                                 |
 | 9:00 – 9:15 AM   | Opening Remarks – Welcome from University Leadership                     |
-| 9:15 – 10:00 AM   | Keynote 1: Gregory Dudek |
+| 9:15 – 10:00 AM   | Keynote 1: TBD (by Gregory Dudek) |
 | 10:00 – 11:00 AM  | Industry Panel I: XR  |
 | 11:00 – 11:15 AM | Break                                                                    |
 | 11:15 – 12:15 PM | Academic Lightning Talks                                             |
 | 12:15 – 1:00 PM  | Networking Lunch                                                         |
-| 1:00 – 1:45 PM   | Keynote 2:    Michael Karch                                         |
+| 1:00 – 1:45 PM   | Keynote 2:  TBD  (by Michael Karch)                                         |
 | 1:45 – 2:45 PM   | Industry Panel II: Robotics & Autonomous Vehicles                         |
 | 2:45 – 3:00 PM   | Break                                                                    |
-| 3:00 – 3:45 PM   | Keynote 3:       Jia Deng            |
+| 3:00 – 3:45 PM   | Keynote 3:   TBD  (by Jia Deng)            |
 | 3:45 – 5:00 PM   | Research Posters                        |
 | 5:00 – 6:00 PM   | Lab Tour                                              |
 | 6:00 – 7:30 PM   | Networking Dinner                                                     |
@@ -60,7 +60,7 @@ A dynamic program designed to foster collaboration and spark innovation.
 | Time             | Session                                                              |
 | ---------------- | -------------------------------------------------------------------- |
 | 8:30 – 9:00 AM   | Breakfast & Networking                                               |
-| 9:00 – 9:45 AM   | Keynote 4:    Shubham Shrivastava       |
+| 9:00 – 9:45 AM   | Keynote 4:    TBD (by Shubham Shrivastava)       |
 | 9:45 – 10:00 AM  | Industry-University Collaboration Mechanisms |
 | 10:00 – 10:15 AM | Break                                                                |
 | 10:15 – 11:45 AM | Collaboration Idealization                                           |
