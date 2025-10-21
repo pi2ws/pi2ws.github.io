@@ -1,5 +1,4 @@
-# Physical Intelligence Initiative (PI²) Workshop 
-# University of Delaware
+# Physical Intelligence Initiative (PI²) Workshop
 <!-- ![](pi2header.png) -->
 <img src="pi2header.png" alt="drawing" width="725"/>
 
