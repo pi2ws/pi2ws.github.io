@@ -41,7 +41,7 @@ A dynamic program designed to foster collaboration and spark innovation.
 | 8:30 – 9:00 AM   | Registration & Breakfast                                                 |
 | 9:00 – 9:15 AM   | Opening Remarks – Welcome from University Leadership: *Pamela Norris*, Dean of College of Engineering|
 | 9:15 – 10:00 AM   | Keynote 1: TBD (by Gregory Dudek) |
-| 10:00 – 11:00 AM  | Industry Panel I: XR & AI (Session Chair, Chuchu Chen)|
+| 10:00 – 11:00 AM  | Industry Panel I: XR & AI (Session Chair: Chuchu Chen)|
 | 11:00 – 11:15 AM | Break                                                                    |
 | 11:15 – 12:15 PM | Academic Lightning Talks                                             |
 | 12:15 – 1:00 PM  | Networking Lunch                                                         |
@@ -61,9 +61,9 @@ A dynamic program designed to foster collaboration and spark innovation.
 | ---------------- | -------------------------------------------------------------------- |
 | 8:30 – 9:00 AM   | Breakfast & Networking                                               |
 | 9:00 – 9:45 AM   | Keynote 4:    TBD (by Shubham Shrivastava)       |
-| 9:45 – 10:00 AM  | Industry-University Collaboration Mechanisms (Session Chair, Weisong Shi) |
+| 9:45 – 10:00 AM  | Industry-University Collaboration Mechanisms (Session Chair: Weisong Shi) |
 | 10:00 – 10:15 AM | Break                                                                |
-| 10:15 – 11:45 AM | Collaboration Idealization    (Session Chair, Paul Huang)            |
+| 10:15 – 11:45 AM | Collaboration Idealization    (Session Chair: Paul Huang)            |
 | 11:45 – 12:00 PM | Closing Remarks – Next Steps for PI2                                 |
 
 ---
