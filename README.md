@@ -60,7 +60,7 @@ A dynamic program designed to foster collaboration and spark innovation.
 | Time             | Session                                                              |
 | ---------------- | -------------------------------------------------------------------- |
 | 8:30 – 9:00 AM   | Breakfast & Networking                                               |
-| 9:00 – 9:45 AM   | Keynote 4:    TBD (by Shubham Shrivastava)       |
+| 9:00 – 9:45 AM   | Keynote 4:    Verifiable Autonomy: The Path to Robust Physical AI (by Shubham Shrivastava)       |
 | 9:45 – 10:00 AM  | Industry-University Collaboration Mechanisms (Session Chair: Weisong Shi) |
 | 10:00 – 10:15 AM | Break                                                                |
 | 10:15 – 11:45 AM | Collaboration Idealization    (Session Chair: Paul Huang)            |
