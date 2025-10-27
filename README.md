@@ -40,7 +40,7 @@ A dynamic program designed to foster collaboration and spark innovation.
 | ---------------- | ------------------------------------------------------------------------ |
 | 8:30 – 9:00 AM   | Registration & Breakfast                                                 |
 | 9:00 – 9:15 AM   | Opening Remarks – Welcome from University Leadership: *Pamela Norris*, Dean of College of Engineering|
-| 9:15 – 10:00 AM   | Keynote 1: TBD (by Gregory Dudek) |
+| 9:15 – 10:00 AM   | Keynote 1: From Intentions to Policies: Marrying Classical Robotics with Foundation Models in the Wild (by Gregory Dudek) |
 | 10:00 – 11:00 AM  | Industry Panel I: XR & AI (Session Chair: Chuchu Chen)|
 | 11:00 – 11:15 AM | Break                                                                    |
 | 11:15 – 12:15 PM | Academic Lightning Talks                                             |
