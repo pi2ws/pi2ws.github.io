@@ -41,12 +41,12 @@ A dynamic program designed to foster collaboration and spark innovation.
 | 8:30 – 9:00 AM   | Registration & Breakfast                                                 |
 | 9:00 – 9:15 AM   | Opening Remarks – Welcome from University Leadership: *Pamela Norris*, Dean of College of Engineering|
 | 9:15 – 10:00 AM   | Keynote 1: From Intentions to Policies: Marrying Classical Robotics with Foundation Models in the Wild (by [Gregory Dudek](https://cim.mcgill.ca/~dudek/)) <details> Abstract: Robots are finally good enough to fail for interesting reasons. Turning them into reliable physical intelligence demands fusing foundation models (FMs) with the planning, control, and verification tools robotics already trusts. I will present a three-level FM architecture deployed across marine robotics and telecommunications: (1) Program — use vision-language-action models to specify tasks and synthesize mission graphs that compile to classical planners (TAMP/MPC) under explicit safety constraints; (2) Monitor — run lightweight FM probes for anomaly explanation and policy-level “guardrails,” coupled to state estimators and runtime monitors; (3) Infer — apply multimodal FMs to the data stream (video/sonar/RF) for labeling, novelty detection, and mission replanning. I’ll show example from marine missions and RL-for-telecom energy optimization, including policy-distillation into control primitives, improvements in flexibility and deployment cost, and measurable energy savings. The argument is not “replace planning with LLMs,” but compose them: classical methods provide liveness or guarantees, FMs provide semantic reach. I’ll end with some thoughts on safety and performance guarantees, and what I feel are emerging challenges to our community.</details> |
-| 10:00 – 11:00 AM  | Industry Panel I: XR & AI (Session Chair: Chuchu Chen)|
+| 10:00 – 11:00 AM  | Industry Panel I: XR & AI (Session Chair: [Chuchu Chen](https://www.chuchuchen.net/)) <details> Panelists: tbd  </details>  |
 | 11:00 – 11:15 AM | Break                                                                    |
-| 11:15 – 12:15 PM | Academic Lightning Talks                                             |
+| 11:15 – 12:15 PM | Academic Lightning Talks   <details> tbd  </details>                                        |
 | 12:15 – 1:00 PM  | Networking Lunch                                                         |
-| 1:00 – 1:45 PM   | Keynote 2:  The Next Thought: How The Coming Data Wave Will Reshape The Operating Room (by Michael Karch)|
-| 1:45 – 2:45 PM   | Industry Panel II: Robotics & Autonomous Vehicles (Session Chair: Yixiang Deng)|
+| 1:00 – 1:45 PM   | Keynote 2:  The Next Thought: How The Coming Data Wave Will Reshape The Operating Room (by [Michael Karch](https://www.linkedin.com/in/michael-karch-md-2909bb281/))   <details> TBD  </details> |
+| 1:45 – 2:45 PM   | Industry Panel II: Robotics & Autonomous Vehicles (Session Chair: [Yixiang Deng](https://yixiangd.github.io/)) <details> Panelists: tbd  </details>  |
 | 2:45 – 3:00 PM   | Break                                                                    |
 | 3:00 – 3:45 PM   | Keynote 3:   The Promise of Procedural Synthetic Data and Environments  (by [Jia Deng](https://www.cs.princeton.edu/~jiadeng/)) <details> Abstract: Data, especially large-scale labeled data, has been a critical driver of progress in AI. However, many important tasks remain starved of high-quality data. Synthetic data from computer graphics is a promising solution to this challenge, but still remains in limited use. This talk will present our work on Infinigen, a procedural generator designed to create unlimited high-quality 3D environments for computer vision and robotics. Infinigen is entirely procedural: every asset, from shape to texture, is generated from scratch via randomized mathematical rules. I will present how we constructed Infinigen, and our recent works on various extensions and applications. </details>            |
 | 3:45 – 5:00 PM   | Research Posters                        |
@@ -60,7 +60,7 @@ A dynamic program designed to foster collaboration and spark innovation.
 | Time             | Session                                                              |
 | ---------------- | -------------------------------------------------------------------- |
 | 8:30 – 9:00 AM   | Breakfast & Networking                                               |
-| 9:00 – 9:45 AM   | Keynote 4:    Verifiable Autonomy: The Path to Robust Physical AI (by Shubham Shrivastava)       |
+| 9:00 – 9:45 AM   | Keynote 4:    Verifiable Autonomy: The Path to Robust Physical AI (by [Shubham Shrivastava](https://www.linkedin.com/in/shubshrivastava/))   <details> TBD  </details>   |
 | 9:45 – 10:00 AM  | Industry-University Collaboration Mechanisms (Session Chair: Weisong Shi) |
 | 10:00 – 10:15 AM | Break                                                                |
 | 10:15 – 11:45 AM | Collaboration Idealization    (Session Chair: Paul Huang)            |
