@@ -13,7 +13,7 @@ Physical AI represents a groundbreaking frontier where artificial intelligence (
 
 **Date:** November 6-7, 2025
 
-**Location:** University of Delaware, Newark, DE
+**Location:** Courtyard by Marriott, 400 David Hollowell Drive, Newark, DE 19716 
 
 ---
 
