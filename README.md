@@ -49,8 +49,8 @@ A dynamic program designed to foster collaboration and spark innovation.
 | 1:45 – 2:45 PM   | Industry Panel II: Robotics & AI (Session Chair: [Yixiang Deng](https://yixiangd.github.io/)) <details> Panelists: Fan Wang (Amazon Robotics), Lily Zhang (Latitude AI), Yafei Hu (Boston Dynamics), Yuliang Guo (Bosch Research), Shuntaro Yamazaki (Google)  </details>  |
 | 2:45 – 3:00 PM   | Break                                                                    |
 | 3:00 – 3:45 PM   | Keynote 3:   The Promise of Procedural Synthetic Data and Environments  (by [Jia Deng](https://www.cs.princeton.edu/~jiadeng/)) <details> Abstract: Data, especially large-scale labeled data, has been a critical driver of progress in AI. However, many important tasks remain starved of high-quality data. Synthetic data from computer graphics is a promising solution to this challenge, but still remains in limited use. This talk will present our work on Infinigen, a procedural generator designed to create unlimited high-quality 3D environments for computer vision and robotics. Infinigen is entirely procedural: every asset, from shape to texture, is generated from scratch via randomized mathematical rules. I will present how we constructed Infinigen, and our recent works on various extensions and applications. </details>            |
-| 3:45 – 5:00 PM   | Research Posters                        |
-| 5:00 – 6:00 PM   | Lab Tour (STAR)                                              |
+| 3:45 – 5:00 PM   | Research Posters       <details> tbd  </details>                 |
+| 5:00 – 6:00 PM   | Lab Tour and Demos (STAR)      <details> tbd  </details>                                        |
 | 6:00 – 7:30 PM   | Networking Dinner                                                     |
 
 
